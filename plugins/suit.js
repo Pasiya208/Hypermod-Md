@@ -13,7 +13,7 @@ let handler = async (m, { text, usedPrefix }) => {
 
     //menentukan rules
     if (text == astro) {
-        m.reply(`Seri!\nඔබ: ${text}\nBot: ${astro}`)
+        m.reply(`Series!\nඔබ: ${text}\nBot: ${astro}`)
     } else if (text == 'ගල') {
         if (astro == 'කතුර') {
             global.db.data.users[m.sender].money += 1000
