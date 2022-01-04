@@ -1,4 +1,4 @@
-global.owner = ['94767043432'] // Put your number here
+global.owner = ['94768039208'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -21,13 +21,13 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'HYPER MOD'
-global.author = 'Lakshitha'
+global.packname = 'PASIYA'
+global.author = 'Pasidu Manoj'
 
 global.wm = '© Lakshitha'
 global.media = 'https://i.ibb.co/FwMVtQd/20211204-120943.jpg'
 
-global.wait = '_*කරුණාකර මොහොතක් රැදි සිටින්න...*_'
+global.wait = '_*කරුණාකර මොහොතක් රැදි සිටහං හාඳ...*_'
 global.eror = '_*Server Error*_'
 
 global.multiplier = 69 // The higher, The harder levelup
